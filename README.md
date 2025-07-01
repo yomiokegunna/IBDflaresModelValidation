@@ -16,5 +16,5 @@ Aligned with best practices in statistical modeling and machine learning
 
 Instructions for replication, including dependencies, are clearly stated in the repository.
 
-This external validation confirms that the repository meets high standards of statistical rigor, reproducibility, and scientific transparency.
+
 
